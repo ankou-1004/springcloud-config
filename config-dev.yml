@@ -1,2 +1,4 @@
 config:
   info: "main version=5.0"
+server:
+ port: 3306
